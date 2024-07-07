@@ -1,0 +1,12 @@
+font-face {
+    font-family: 'minuitdisplay';
+    src: url('MINUIT-Display-webfont.eot');
+    src: url('MINUIT-Display-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MINUIT-Display-webfont.woff2') format('woff2'),
+         url('MINUIT-Display-webfont.woff') format('woff'),
+         url('MINUIT-Display-webfont.ttf') format('truetype'),
+         url('MINUIT-Display-webfont.svg#minuitdisplay') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
